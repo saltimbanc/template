@@ -3,14 +3,14 @@
     {
       "coinName": "Bitcoin",
       "coinID": "BTC",
-      "coinCount": 123,
-      "buyingPrice": 60000
+      "coinCount": 4.254800,
+      "buyingPrice": 29531
     },
     {
       "coinName": "Ethereum",
       "coinID": "ETH",
-      "coinCount": 214,
-      "buyingPrice": 400
+      "coinCount": 148,
+      "buyingPrice": 55793
     }
   ]
 }
