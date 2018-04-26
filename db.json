@@ -1,16 +1,28 @@
 {
   "portfolio": [
     {
-      "coinName": "Bitcoin",
-      "coinID": "BTC",
-      "coinCount": 1,
-      "buyingPrice": 29531
+      "coinName": "QASH",
+      "coinID": "QASH",
+      "coinCount": 43979.826261,
+      "buyingPrice": 1.35303516585514
     },
     {
-      "coinName": "Ethereum",
-      "coinID": "ETH",
-      "coinCount": 1,
-      "buyingPrice": 55793
+      "coinName": "WePower",
+      "coinID": "WPR",
+      "coinCount": 195866.80772,
+      "buyingPrice": 6.899121127744838
+    },
+    {
+      "coinName": "DRAGON",
+      "coinID": "DRG",
+      "coinCount": 2936.80,
+      "buyingPrice": 1.377085462951674
+    },
+    {
+      "coinName": "BETEX",
+      "coinID": "BETEX",
+      "coinCount": 70000,
+      "buyingPrice": 0
     }
   ]
 }
