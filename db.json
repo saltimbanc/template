@@ -4,19 +4,19 @@
       "coinName": "QASH",
       "coinID": "QASH",
       "coinCount": 43979.826261,
-      "buyingPrice": 32,504.57
+      "buyingPrice": 32504.57
     },
     {
       "coinName": "WePower",
       "coinID": "WPR",
       "coinCount": 195866.80772,
-      "buyingPrice": 28,390.11
+      "buyingPrice": 28390.11
     },
     {
       "coinName": "DRAGON",
       "coinID": "DRG",
       "coinCount": 2936.80,
-      "buyingPrice": 2,132.62
+      "buyingPrice": 2132.62
     }
   ]
 }
